@@ -1,0 +1,2 @@
+# emadphysics-Discriminating_Cosmological_Scenarios_By_3DCNN
+Discriminating Cosmological Scenarios By 3DCNN
